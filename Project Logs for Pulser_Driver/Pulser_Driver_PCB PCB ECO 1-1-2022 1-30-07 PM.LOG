@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=HV_OUT Pin=C10-2
+Change Component Comment : Designator=C13 Old Comment=.1uF New Comment=0.1uF
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C_0805"; UniqueID = "\DJGYMHWQ\RXFRONQU" ("\DJGYMHWQ\RXFRONQU")
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "r_0603"; UniqueID = "\DJGYMHWQ\GAIHWQNH" ("\DJGYMHWQ\GAIHWQNH")
+Added Pin To Net: NetName=HV_OUT Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2

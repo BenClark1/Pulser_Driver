@@ -1111,9 +1111,16 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=COIL_RETURN|NetColor=$006600FF
-Net2=NetName=HV_OUT|NetColor=$000033FF
-Net3=NetName=NetPS3_4|NetColor=$006699FF
-Net4=NetName=NetQ?_2|NetColor=$006600FF
+Net2=NetName=FUS1_12VDC|NetColor=$00CCFF00
+Net3=NetName=FUS2_12VDC|NetColor=$00FF6600
+Net4=NetName=GND|NetColor=$00003300
+Net5=NetName=HV_OUT|NetColor=$000033FF
+Net6=NetName=NetC6_1|NetColor=$00FF6600
+Net7=NetName=NetD2_2|NetColor=$00CCFF00
+Net8=NetName=NetF1_2|NetColor=$00CCFF00
+Net9=NetName=NetF2_2|NetColor=$00FF6600
+Net10=NetName=NetPS3_4|NetColor=$006699FF
+Net11=NetName=NetQ?_2|NetColor=$006600FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
