@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Added Component: Designator=C8(MKS2D041001K00KSSD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MKS2D041001K00KSSD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "WIMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MKS2D041001K00KSSD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(4527)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//4527.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "534-4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=534-4527"; VariantName = "[No Variations]"
+Added Component: Designator=F2(4527)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//4527.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "534-4527"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=534-4527"; VariantName = "[No Variations]"
+Added Component: Designator=J1(57-PJ60)
+Added Component: Designator=J3(031-5640)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/570beec7961c44031375f59c7939d09c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "031-5640-1010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED?(5502407F)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//550-2407F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "550-2407F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "645-550-2407F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=645-550-2407F"; VariantName = "[No Variations]"
+Added Component: Designator=PS4(AM2G-1218DH30Z)
+Added Component: Designator=SW1(T102SHCQE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/T102SHCQE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "23.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T102SHCQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=FUS1_12VDC Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=F2-1
+Added Pin To Net: NetName=FUS2_12VDC Pin=F2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=TRIGGER Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=PS4-1
+Added Pin To Net: NetName=FUS2_12VDC Pin=PS4-2
+Added Pin To Net: NetName=NetC7_2 Pin=PS4-6
+Added Pin To Net: NetName=GND Pin=PS4-7
+Added Pin To Net: NetName=NetJ1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetF1_1 Pin=SW1-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 255, 204)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 102, 255)
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R1-1
+Added Net: Name=NetLED?_1
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component C9 Cap
+Added Member To Class: ClassName=12V DC Member=Component F1 4527
+Added Member To Class: ClassName=12V DC Member=Component F2 4527
+Added Member To Class: ClassName=12V DC Member=Component J1 57-PJ60
+Added Member To Class: ClassName=12V DC Member=Component J3 031-5640
+Added Member To Class: ClassName=12V DC Member=Component LED? 550-2407F
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component PS4 AM2G-1218DH30Z
+Added Member To Class: ClassName=12V DC Member=Component SW1 T102SHCQE
+Added Room: Name=12V DC
+Added Room: Name=Chargin Cap 1.25kV Circuit
+Added Room: Name=IGBT Driver Circuit
+Added Room: Name=Pulser_Top
