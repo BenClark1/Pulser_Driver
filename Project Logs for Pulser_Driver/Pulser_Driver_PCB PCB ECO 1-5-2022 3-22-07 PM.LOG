@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Added Component: Designator=R6(HB3100MFZRE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773310&DocType=DS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HB3100MFZRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV_OUT Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component C8 Cap
+Added Member To Class: ClassName=Pulser_Top Member=Component R6 HB3100MFZRE
