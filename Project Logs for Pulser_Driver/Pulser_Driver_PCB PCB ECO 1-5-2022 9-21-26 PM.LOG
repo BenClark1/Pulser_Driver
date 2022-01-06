@@ -1,0 +1,12 @@
+Added Component: Designator=TP1(5261)
+Added Component: Designator=TP2(5261)
+Added Component: Designator=TP3(5261)
+Added Component: Designator=TP4(5261)
+Added Pin To Net: NetName=PROG Pin=TP1-1
+Added Pin To Net: NetName=HV_OUT Pin=TP2-1
+Added Pin To Net: NetName=TRIGGER Pin=TP3-1
+Added Pin To Net: NetName=NetQ1_1 Pin=TP4-1
+Added Member To Class: ClassName=Chargin Cap 1.25kV Circuit Member=Component TP1 5261
+Added Member To Class: ClassName=Chargin Cap 1.25kV Circuit Member=Component TP2 5261
+Added Member To Class: ClassName=12V DC Member=Component TP3 5261
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component TP4 5261

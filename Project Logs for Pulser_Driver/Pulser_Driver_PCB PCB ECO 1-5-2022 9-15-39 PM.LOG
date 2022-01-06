@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FUS2_12VDC Pin=R1-2
+Added Pin To Net: NetName=NetF1_1 Pin=R1-2
+Added Room: Name=Chargin Cap 1.25kV Circuit
+Added Room: Name=Pulser_Top

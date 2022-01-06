@@ -1085,10 +1085,22 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=pulser_driver_symbols.SchLib
+ComponentDesignItemID0=5261
+ComponentSymbolReference0=5261
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=pulser_driver_symbols.SchLib
+ComponentDesignItemID1=57-PJ60
+ComponentSymbolReference1=57-PJ60
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1102,6 +1114,22 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=5261
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=57-PJ60
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1110,17 +1138,20 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=COIL_RETURN|NetColor=$006600FF
-Net2=NetName=FUS1_12VDC|NetColor=$00CCFF00
-Net3=NetName=FUS2_12VDC|NetColor=$00FF6600
-Net4=NetName=GND|NetColor=$00003300
-Net5=NetName=HV_OUT|NetColor=$000033FF
-Net6=NetName=NetC6_1|NetColor=$00FF6600
-Net7=NetName=NetD2_2|NetColor=$00CCFF00
-Net8=NetName=NetF1_2|NetColor=$00CCFF00
-Net9=NetName=NetF2_2|NetColor=$00FF6600
-Net10=NetName=NetPS3_4|NetColor=$006699FF
-Net11=NetName=NetQ?_2|NetColor=$006600FF
+Net1=NetName=12V_IN|NetColor=$00663300
+Net2=NetName=COIL_RETURN|NetColor=$006600FF
+Net3=NetName=FUS1_12VDC|NetColor=$00CCFF00
+Net4=NetName=FUS2_12VDC|NetColor=$00FF6600
+Net5=NetName=GND|NetColor=$00003300
+Net6=NetName=HV_OUT|NetColor=$000033FF
+Net7=NetName=NetC6_1|NetColor=$00FF6600
+Net8=NetName=NetD2_2|NetColor=$00CCFF00
+Net9=NetName=NetF1_1|NetColor=$00990000
+Net10=NetName=NetF1_2|NetColor=$00CCFF00
+Net11=NetName=NetF2_2|NetColor=$00FF6600
+Net12=NetName=NetJ1_1|NetColor=clBlue
+Net13=NetName=NetPS3_4|NetColor=$006699FF
+Net14=NetName=NetQ?_2|NetColor=$006600FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
