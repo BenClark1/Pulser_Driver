@@ -288,7 +288,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Color LaserJet MFP M281fdw (5B644E)
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1155,14 +1155,15 @@ Net3=NetName=FUS1_12VDC|NetColor=$00CCFF00
 Net4=NetName=FUS2_12VDC|NetColor=$00FF6600
 Net5=NetName=GND|NetColor=$00003300
 Net6=NetName=HV_OUT|NetColor=$000033FF
-Net7=NetName=NetC6_1|NetColor=$00FF6600
-Net8=NetName=NetD2_2|NetColor=$00CCFF00
-Net9=NetName=NetF1_1|NetColor=$00990000
-Net10=NetName=NetF1_2|NetColor=$00CCFF00
-Net11=NetName=NetF2_2|NetColor=$00FF6600
-Net12=NetName=NetJ1_1|NetColor=clBlue
-Net13=NetName=NetPS3_4|NetColor=$006699FF
-Net14=NetName=NetQ?_2|NetColor=$006600FF
+Net7=NetName=HV_PIN|NetColor=$006699FF
+Net8=NetName=NetC6_1|NetColor=$00FF6600
+Net9=NetName=NetD2_2|NetColor=$00CCFF00
+Net10=NetName=NetF1_1|NetColor=$00990000
+Net11=NetName=NetF1_2|NetColor=$00CCFF00
+Net12=NetName=NetF2_2|NetColor=$00FF6600
+Net13=NetName=NetJ1_1|NetColor=clBlue
+Net14=NetName=NetPS3_4|NetColor=$006699FF
+Net15=NetName=NetQ?_2|NetColor=$006600FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
