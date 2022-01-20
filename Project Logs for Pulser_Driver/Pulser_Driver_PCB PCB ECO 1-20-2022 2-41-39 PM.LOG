@@ -1,0 +1,20 @@
+Added Component: Designator=MT1(MTHOLE_239mil)
+Add component (AddParameter): Name = "Manufacturer"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MTHOLE_239"; VariantName = "[No Variations]"
+Added Component: Designator=MT2(MTHOLE_239mil)
+Add component (AddParameter): Name = "Manufacturer"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MTHOLE_239"; VariantName = "[No Variations]"
+Added Component: Designator=MT3(MTHOLE_239mil)
+Add component (AddParameter): Name = "Manufacturer"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MTHOLE_239"; VariantName = "[No Variations]"
+Added Component: Designator=MT4(MTHOLE_239mil)
+Add component (AddParameter): Name = "Manufacturer"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "(NULL)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MTHOLE_239"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Pulser_Top Member=Component MT1 239mil
+Added Member To Class: ClassName=Pulser_Top Member=Component MT2 239mil
+Added Member To Class: ClassName=Pulser_Top Member=Component MT3 239mil
+Added Member To Class: ClassName=Pulser_Top Member=Component MT4 239mil
