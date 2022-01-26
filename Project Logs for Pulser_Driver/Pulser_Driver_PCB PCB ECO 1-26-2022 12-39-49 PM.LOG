@@ -1,0 +1,14 @@
+Added Component: Designator=D?(TO546P530X1586X2594-2P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ixapps.ixys.com/DataSheet/96517.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DSDI60-18A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV_OUT Pin=D?-1
+Added Pin To Net: NetName=COIL_RETURN Pin=D?-3
+Added Member To Class: ClassName=Pulser_Top Member=Component D? DSDI60-18A
+Added Room: Name=12V DC
+Added Room: Name=Chargin Cap 1.25kV Circuit
+Added Room: Name=IGBT Driver Circuit
+Added Room: Name=Pulser_Top
