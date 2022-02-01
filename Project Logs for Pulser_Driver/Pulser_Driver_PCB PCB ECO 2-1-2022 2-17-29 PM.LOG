@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=CMF551K0000FKR6
+Change Component Comment : Designator=R1 Old Comment= New Comment=1k
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.3"; UniqueID = "\WZFRJJZA\WHPSYKLA" ("\WZFRJJZA\WHPSYKLA")
+Added Pin To Net: NetName=NetF1_1 Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
