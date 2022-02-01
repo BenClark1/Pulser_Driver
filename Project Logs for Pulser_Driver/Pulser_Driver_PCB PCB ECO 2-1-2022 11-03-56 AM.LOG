@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=IGBT Driver Circuit Member=R8
+Removed Member From Class: ClassName=IGBT Driver Circuit Member=R9
+Change Component Footprint: Designator=C14 Old Footprint=CAPPA6100W80L2700D850 New Footprint=F462BY104K1L2C
+Change Component Footprint: Designator=R7 Old Footprint=TO508P438X1010X1539-2P New Footprint=PWR221T-50-50R0F
+Change Component Comment : Designator=R7 Old Comment=PWR220T-20-2R00F New Comment=50
+Change Component Comment : Designator=C14 Old Comment=PWS2152100KG New Comment=0.1uF
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPPA6100W80L2700D850"; UniqueID = "\HBEVFZMH\KHRCHTTQ" ("\HBEVFZMH\KHRCHTTQ")
+Added Pin To Net: NetName=GND Pin=R7-2
