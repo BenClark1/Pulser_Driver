@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=R7-1
+Change Component Footprint: Designator=C11 Old Footprint=564R60GAD22 New Footprint=C331C222KHR5HA
+Change Component Footprint: Designator=C14 Old Footprint=F462BY104K1L2C New Footprint=FKP1U021006B00MSC9
+Change Component Footprint: Designator=R7 Old Footprint=PWR221T-50-2R00F New Footprint=RESAD1700W60L700D250
+Change Component Comment : Designator=C14 Old Comment=0.1uF New Comment=0.01uF
+Change Component Comment : Designator=R7 Old Comment=2 New Comment=6.2
+Change Component Comment : Designator=R6 Old Comment=HB3100MFZRE New Comment=100M
+Change component parameters: Designator = "C14" ("C14"); Footprint = "F462BY104K1L2C"; UniqueID = "\HBEVFZMH\EWRXKWMK" ("\HBEVFZMH\EWRXKWMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/440/e_WIMA_FKP_1-1139839.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "21mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "WIMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FKP1U021006B00MSC9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "PWR221T-50-2R00F"; UniqueID = "\HBEVFZMH\FZCBETGN" ("\HBEVFZMH\FZCBETGN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ohmite.com/assets/docs/res_od_of_oa.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Ohmite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OD62GJE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R7-1
+Added Net: Name=NetC14_2
+Added Member To Class: ClassName=Chargin Cap 1.25kV Circuit Member=Component C11 2.2nF
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component C14 0.01uF
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component R7 6.2
+Added Member To Class: ClassName=HV_post_coil Member=Wire NetC14_2

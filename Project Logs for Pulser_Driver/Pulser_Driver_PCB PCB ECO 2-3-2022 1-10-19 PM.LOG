@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=HV_OUT Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=COIL_RETURN Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Member From Class: ClassName=HV_post_coil Member=SNUB
+Change Component Comment : Designator=R6 Old Comment=HB3100MFZRE New Comment=100M
+Added Component: Designator=C11(C331C222KHR5HA)
+Added Component: Designator=C14(FKP1U021006B00MSC9)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/440/e_WIMA_FKP_1-1139839.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "WIMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FKP1U021006B00MSC9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESAD1700W60L700D250)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ohmite.com/assets/docs/res_od_of_oa.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Ohmite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "OD62GJE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HV_OUT Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=COIL_RETURN Pin=C14-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R7-1
+Added Net: Name=NetC14_2
+Added Member To Class: ClassName=HV_post_coil Member=Wire NetC14_2

@@ -1,0 +1,12 @@
+Added Component: Designator=TP5(5261)
+Added Component: Designator=TP6(5261)
+Added Component: Designator=TP7(5261)
+Added Component: Designator=TP9(5261)
+Added Pin To Net: NetName=NetF1_1 Pin=TP5-1
+Added Pin To Net: NetName=12V_IN Pin=TP6-1
+Added Pin To Net: NetName=NetC7_2 Pin=TP7-1
+Added Pin To Net: NetName=COIL_RETURN Pin=TP9-1
+Added Member To Class: ClassName=12V DC Member=Component TP5 5261
+Added Member To Class: ClassName=Chargin Cap 1.25kV Circuit Member=Component TP6 5261
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component TP7 5261
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component TP9 5261
