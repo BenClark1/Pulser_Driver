@@ -1,0 +1,15 @@
+Added Component: Designator=TP7(5261)
+Added Component: Designator=TP8(5261)
+Added Component: Designator=TP9(5261)
+Added Component: Designator=TP10(5261)
+Added Component: Designator=TP11(5261)
+Added Pin To Net: NetName=SNUB Pin=TP7-1
+Added Pin To Net: NetName=FUS1_12VDC Pin=TP8-1
+Added Pin To Net: NetName=NetF1_1 Pin=TP9-1
+Added Pin To Net: NetName=FUS2_12VDC Pin=TP10-1
+Added Pin To Net: NetName=12V_IN Pin=TP11-1
+Added Member To Class: ClassName=IGBT Driver Circuit Member=Component TP7 5261
+Added Member To Class: ClassName=12V DC Member=Component TP8 5261
+Added Member To Class: ClassName=12V DC Member=Component TP9 5261
+Added Member To Class: ClassName=12V DC Member=Component TP10 5261
+Added Member To Class: ClassName=Chargin Cap 1.25kV Circuit Member=Component TP11 5261
