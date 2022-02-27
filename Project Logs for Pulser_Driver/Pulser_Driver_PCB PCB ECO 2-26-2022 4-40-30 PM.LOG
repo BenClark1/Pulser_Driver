@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HV_GND Pin=NT2-1
+Removed Pin From Net: NetName=HV_GND Pin=NT2-1
+Removed Pin From Net: NetName=GND Pin=NT2-2
+Removed Pin From Net: NetName=GND Pin=NT2-2
+Removed Member From Class: ClassName=Pulser_Top Member=NT2
