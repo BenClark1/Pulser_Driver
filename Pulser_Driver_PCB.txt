@@ -1,0 +1,49 @@
+Board Information Report
+Filename     : C:\Users\benja\Documents\cp\senior_year\ENGR_459_senior_project\Pulser_Driver\Pulser_Driver_PCB.PcbDoc
+Date         : 3/1/2022
+Time         : 1:52:29 PM
+Time Elapsed : 00:00:00
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 4, 0
+    25mils, 7, 0
+    27.559mils, 10, 0
+    27.953mils, 2, 0
+    29.528mils, 2, 0
+    30.315mils, 8, 0
+    31.496mils, 4, 0
+    33.465mils, 4, 0
+    33.5mils, 2, 0
+    35.433mils, 4, 0
+    37.402mils, 2, 0
+    39.37mils, 2, 0
+    41.339mils, 6, 0
+    41.732mils, 11, 0
+    42.913mils, 2, 0
+    43.307mils, 3, 0
+    47.244mils, 6, 0
+    48.032mils, 2, 0
+    51.969mils, 4, 0
+    52mils, 5, 0
+    71.26mils, 3, 0
+    73.228mils, 2, 0
+    78.74mils, 2, 0
+    114mils, 3, 0
+    187mils, 1, 0
+    239mils, 4, 0
+count : 26
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
