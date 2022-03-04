@@ -1,0 +1,418 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 12 4.38 3.8752756 90 N C6 220_uF ;0=2,1=0.0000
+PRP Arrow_Part_Number 'EEU-FS2A221B'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/eeu-fs2a221b/panasonic'
+PRP Datasheet_Link 'http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1255.pdf'
+PRP Height '27mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'EEU-FS2A221B'
+PRP Mouser_Part_Number '667-EEU-FS2A221B'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-FS2A221B?qs=w%2Fv1CP2dgqqAbg7G%252BWfZEw%3D%3D'
+TOP 0 4.38 3.8752756 90 N 15 4 C6-1
+TOP 1 4.38 3.58 90 N 14 26 C6-2
+#
+# CMP 1
+CMP 3 1.81 1.94 0 N TP11 5261 ;0=2,1=0.0000
+TOP 0 1.81 1.94 0 N 18 5 TP11-1
+#
+# CMP 2
+CMP 3 3.9 3.505 0 N TP10 5261 ;0=2,1=0.0000
+TOP 0 3.9 3.505 0 N 15 3 TP10-1
+#
+# CMP 3
+CMP 3 1.29 3.585 0 N TP9 5261 ;0=2,1=0.0000
+TOP 0 1.29 3.585 0 N 11 5 TP9-1
+#
+# CMP 4
+CMP 3 1.195 1.86 0 N TP8 5261 ;0=2,1=0.0000
+TOP 0 1.195 1.86 0 N 16 3 TP8-1
+#
+# CMP 5
+CMP 3 5.525 2.355 0 N TP7 5261 ;0=2,1=0.0000
+TOP 0 5.525 2.355 0 N 2 3 TP7-1
+#
+# CMP 6
+CMP 3 7.05 3.16 0 N TP5 5261 ;0=2,1=0.0000
+TOP 0 7.05 3.16 0 N 17 6 TP5-1
+#
+# CMP 7
+CMP 3 5.785 3.34 0 N TP6 5261 ;0=2,1=0.0000
+TOP 0 5.785 3.34 0 N 12 6 TP6-1
+#
+# CMP 8
+CMP 9 3.92 2.495 270 N C11 2.2nF ;0=2,1=0.0000
+TOP 0 3.92 2.495 270 N 13 7 C11-1
+TOP 1 3.92 2.745 270 N 1 5 C11-2
+#
+# CMP 9
+CMP 17 6.41 2.725 180 N C14 0.01uF ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.mouser.com/datasheet/2/440/e_WIMA_FKP_1-1139839.pdf'
+PRP Height '21mm'
+PRP Manufacturer_Name 'WIMA'
+PRP Manufacturer_Part_Number 'FKP1U021006B00MSC9'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 6.41 2.725 180 N 17 4 C14-1
+TOP 1 5.3273228 2.725 180 N 2 1 C14-2
+#
+# CMP 10
+CMP 28 5.9207087 2.39 0 N R7 6.2 ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.ohmite.com/assets/docs/res_od_of_oa.pdf'
+PRP Manufacturer_Name 'Ohmite'
+PRP Manufacturer_Part_Number 'OD62GJE'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 5.9207087 2.39 0 N 2 2 R7-1
+TOP 1 6.59 2.39 0 N 1 6 R7-2
+#
+# CMP 11
+CMP 31 6.995 1.8500787 270 N D3 DSDI60-18A ;0=2,1=0.0000
+PRP Datasheet_Link 'http://ixapps.ixys.com/DataSheet/96517.pdf'
+PRP Height '5.3mm'
+PRP Manufacturer_Name 'LITTELFUSE'
+PRP Manufacturer_Part_Number 'DSDI60-18A'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 6.995 1.8500787 270 N 13 8 D3-1
+TOP 1 6.995 2.28 270 N 17 5 D3-3
+#
+# CMP 12
+CMP 23 6.990001 0.909999 0 N MT4 239mil ;0=2,1=0.0000
+PRP Manufacturer '(NULL)'
+PRP Manufacturer_Part_Number '(NULL)'
+PRP Part_Number 'MTHOLE_239'
+TOP 0 6.990001 0.909999 0 N 14 13 MT4-1
+#
+# CMP 13
+CMP 23 1.1300005 0.9100005 0 N MT3 239mil ;0=2,1=0.0000
+PRP Manufacturer '(NULL)'
+PRP Manufacturer_Part_Number '(NULL)'
+PRP Part_Number 'MTHOLE_239'
+TOP 0 1.1300005 0.9100005 0 N 14 12 MT3-1
+#
+# CMP 14
+CMP 23 6.99 3.99 0 N MT2 239mil ;0=2,1=0.0000
+PRP Manufacturer '(NULL)'
+PRP Manufacturer_Part_Number '(NULL)'
+PRP Part_Number 'MTHOLE_239'
+TOP 0 6.99 3.99 0 N 14 11 MT2-1
+#
+# CMP 15
+CMP 23 1.13 3.99 0 N MT1 239mil ;0=2,1=0.0000
+PRP Manufacturer '(NULL)'
+PRP Manufacturer_Part_Number '(NULL)'
+PRP Part_Number 'MTHOLE_239'
+TOP 0 1.13 3.99 0 N 14 10 MT1-1
+#
+# CMP 16
+CMP 20 2.235 3.2965748 270 N R4 14k ;0=2,1=0.0000
+TOP 0 2.235 3.2965748 270 N 18 4 R4-1
+TOP 1 2.235 3.895 270 N 6 0 R4-2
+#
+# CMP 17
+CMP 16 5.8515748 3.075 0 N R3 2ohm ;0=2,1=0.0000
+TOP 0 5.8515748 3.075 0 N 7 0 R3-1
+TOP 1 6.45 3.075 0 N 8 1 R3-2
+#
+# CMP 18
+CMP 27 5.995 3.41 270 N R2 CMF5550R000FKEK70 ;0=2,1=0.0000
+PRP Datasheet_Link 'http://www.vishay.com/docs/31018/cmfind.pdf'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'CMF5550R000FKEK70'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 5.995 3.41 270 N 4 0 R2-1
+TOP 1 5.995 4.0123622 270 N 14 19 R2-2
+#
+# CMP 19
+CMP 8 5.81 3.595 270 N C5 C325C201K3G5TA ;0=2,1=0.0000
+PRP Datasheet_Link 'https://www.kemet.com/specsheet/C325C201K3G5TA'
+PRP Height '7.62mm'
+PRP Manufacturer_Name 'Kemet'
+PRP Manufacturer_Part_Number 'C325C201K3G5TA'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 5.81 3.595 270 N 4 3 C5-1
+TOP 1 5.81 3.795 270 N 14 23 C5-2
+#
+# CMP 20
+CMP 1 6.98 2.6622047 270 N TB2 1984617 ;0=2,1=0.0000
+PRP Arrow_Part_Number '1984617'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1984617/phoenix-contact?region=nac'
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA17/1074867.pdf'
+PRP Height '9.3mm'
+PRP Manufacturer_Name 'Phoenix Contact'
+PRP Manufacturer_Part_Number '1984617'
+PRP Mouser_Part_Number '651-1984617'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984617?qs=ATjOrvm3mOhUrGlJQoUcpQ%3D%3D'
+TOP 0 6.98 2.6622047 270 N 17 3 TB2-1
+TOP 1 6.98 2.8 270 N 17 2 TB2-2
+#
+# CMP 21
+CMP 3 6.835 3.445 90 N TP4 5261 ;0=2,1=0.0000
+TOP 0 6.835 3.445 90 N 8 2 TP4-1
+#
+# CMP 22
+CMP 3 6.275 3.475 0 N TP3 5261 ;0=2,1=0.0000
+TOP 0 6.275 3.475 0 N 4 2 TP3-1
+#
+# CMP 23
+CMP 3 5.985 1.205 0 N TP2 5261 ;0=2,1=0.0000
+TOP 0 5.985 1.205 0 N 13 6 TP2-1
+#
+# CMP 24
+CMP 3 3.265 3.36 180 N TP1 5261 ;0=2,1=0.0000
+TOP 0 3.265 3.36 180 N 5 3 TP1-1
+#
+# CMP 25
+CMP 18 5.425 2.07 0 N R6 100M ;0=2,1=0.0000
+PRP Datasheet_Link 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773310&DocType=DS&DocLang=English'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number 'HB3100MFZRE'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 4.4742126 2.1162598 0 N 13 3 R6-1
+TOP 1 6.3757874 2.1162598 0 N 1 4 R6-2
+#
+# CMP 26
+CMP 29 1.82 3.36 270 N SW1 T102SHCQE ;0=2,1=0.0000
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/1/T102SHCQE.pdf'
+PRP Height '23.56mm'
+PRP Manufacturer_Name 'C & K COMPONENTS'
+PRP Manufacturer_Part_Number 'T102SHCQE'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 1.82 3.36 270 N 10 2 SW1-1
+TOP 1 1.62 3.36 270 N 11 4 SW1-3
+#
+# CMP 27
+CMP 6 4.9 3.98 90 N PS4 AM2G-1218DH30Z ;0=2,1=0.0000
+TOP 0 4.9 3.98 90 N 14 16 PS4-1
+TOP 1 4.9 3.88 90 N 15 2 PS4-2
+TOP 2 4.9 3.78 90 N 0 2 PS4-3
+TOP 3 4.9 3.58 90 N 0 3 PS4-5
+TOP 4 4.9 3.48 90 N 12 2 PS4-6
+TOP 5 4.9 3.38 90 N 14 17 PS4-7
+TOP 6 4.9 3.28 90 N 0 4 PS4-8
+#
+# CMP 28
+CMP 4 1.765 2.98 90 N LED1 550-2407F ;0=2,1=0.0000
+PRP Datasheet_Link 'https://componentsearchengine.com//550-2407F.pdf'
+PRP Height '6.1mm'
+PRP Manufacturer_Name 'Dialight'
+PRP Manufacturer_Part_Number '550-2407F'
+PRP Mouser2_Part_Number '645-550-2407F'
+PRP Mouser2_Price/Stock 'https://www.mouser.com/Search/Refine.aspx?Keyword=645-550-2407F'
+TOP 0 1.765 2.98 90 N 3 0 LED1-1
+TOP 1 1.765 2.88 90 N 14 9 LED1-2
+#
+# CMP 29
+CMP 0 6.39 3.675 0 N J3 031-5640 ;0=2,1=0.0000
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/570beec7961c44031375f59c7939d09c.pdf'
+PRP Height '15.9mm'
+PRP Manufacturer_Name 'Amphenol'
+PRP Manufacturer_Part_Number '031-5640-1010'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 6.39 3.675 0 N 4 4 J3-1
+TOP 1 6.29 3.675 0 N 14 24 J3-2
+TOP 2 6.59 3.875 0 N 0 7 J3-3
+TOP 3 6.19 3.875 0 N 0 6 J3-4
+#
+# CMP 30
+CMP 5 1.82 3.855 180 N J1 57-PJ60 ;0=2,1=0.0000
+TOP 0 1.82 3.6445 180 N 10 1 J1-1
+TOP 1 1.6095 3.855 180 N 14 8 J1-2
+TOP 2 1.82 4.0655 180 N 0 0 J1-3
+#
+# CMP 31
+CMP 2 3.51 3.885 0 N F2 4527 ;0=2,1=0.0000
+PRP Datasheet_Link 'https://componentsearchengine.com//4527.pdf'
+PRP Manufacturer_Name 'Keystone Electronics'
+PRP Manufacturer_Part_Number '4527'
+PRP Mouser2_Part_Number '534-4527'
+PRP Mouser2_Price/Stock 'https://www.mouser.com/Search/Refine.aspx?Keyword=534-4527'
+TOP 0 3.0800787 3.885 0 N 11 2 F2-1
+TOP 1 3.9399213 3.885 0 N 15 1 F2-2
+#
+# CMP 32
+CMP 2 1.19 2.82 90 N F1 4527 ;0=2,1=0.0000
+PRP Datasheet_Link 'https://componentsearchengine.com//4527.pdf'
+PRP Manufacturer_Name 'Keystone Electronics'
+PRP Manufacturer_Part_Number '4527'
+PRP Mouser2_Part_Number '534-4527'
+PRP Mouser2_Price/Stock 'https://www.mouser.com/Search/Refine.aspx?Keyword=534-4527'
+TOP 0 1.19 3.2499213 90 N 11 1 F1-1
+TOP 1 1.19 2.3900787 90 N 16 2 F1-2
+#
+# CMP 33
+CMP 22 5.5818504 4.025 180 N C8 Cap ;0=2,1=0.0000
+PRP Datasheet_Link 'https://componentsearchengine.com/Datasheets/2/MKS2D041001K00KSSD.pdf'
+PRP Height '13mm'
+PRP Manufacturer_Name 'WIMA'
+PRP Manufacturer_Part_Number 'MKS2D041001K00KSSD'
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+TOP 0 5.5818504 4.025 180 N 12 5 C8-1
+TOP 1 5.385 4.025 180 N 14 25 C8-2
+#
+# CMP 34
+CMP 25 2.7284252 3.6 90 N VR1 P9A1R100FISX1103MA ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.mouser.com/datasheet/2/427/p9-1763422.pdf'
+PRP Height '11.35mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'P9A1R100FISX1103MA'
+PRP Mouser_Part_Number '72-P9A1RFISX1BB2103M'
+PRP Mouser_Price/Stock 'https://www.mouser.com/Search/Refine.aspx?Keyword=72-P9A1RFISX1BB2103M'
+TOP 0 2.7284252 3.6 90 N 6 1 VR1-1
+TOP 1 2.63 3.6 90 N 5 4 VR1-2
+TOP 2 2.5315748 3.6 90 N 14 20 VR1-3
+#
+# CMP 35
+CMP 15 5.435 3.505 90 N U1 MIC4452YN ;0=2,1=0.0000
+TOP 0 5.585 3.655 90 N 12 3 U1-1
+TOP 1 5.485 3.655 90 N 4 1 U1-2
+TOP 2 5.385 3.655 90 N 0 5 U1-3
+TOP 3 5.285 3.655 90 N 14 21 U1-4
+TOP 4 5.285 3.355 90 N 14 22 U1-5
+TOP 5 5.385 3.355 90 N 7 1 U1-6
+TOP 6 5.485 3.355 90 N 7 2 U1-7
+TOP 7 5.585 3.355 90 N 12 4 U1-8
+#
+# CMP 36
+CMP 1 6.96 1.435 270 N TB1 1984617 ;0=2,1=0.0000
+PRP Arrow_Part_Number '1984617'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1984617/phoenix-contact?region=nac'
+PRP Datasheet_Link 'https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA17/1074867.pdf'
+PRP Height '9.3mm'
+PRP Manufacturer_Name 'Phoenix Contact'
+PRP Manufacturer_Part_Number '1984617'
+PRP Mouser_Part_Number '651-1984617'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1984617?qs=ATjOrvm3mOhUrGlJQoUcpQ%3D%3D'
+TOP 0 6.96 1.435 270 N 13 5 TB1-1
+TOP 1 6.96 1.5727953 270 N 13 4 TB1-2
+#
+# CMP 37
+CMP 19 3.44 2.235 0 N R5 2M ;0=2,1=0.0000
+TOP 0 3.44 2.235 0 N 9 2 R5-1
+TOP 1 4.0100787 2.235 0 N 13 2 R5-2
+#
+# CMP 38
+CMP 13 1.545 3.15 0 N R1 1k ;0=2,1=0.0000
+TOP 0 1.545 3.15 0 N 11 3 R1-1
+TOP 1 1.845 3.15 0 N 3 1 R1-2
+#
+# CMP 39
+CMP 30 6.63 3.0295669 90 N Q1 IXBX75N170 ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.littelfuse.com/~/media/electronics/datasheets/discrete_igbts/littelfuse_discrete_igbts_bimosfet_ixb_75n170_datasheet.pdf.pdf'
+PRP Height '5.21mm'
+PRP Manufacturer_Name 'IXYS SEMICONDUCTOR'
+PRP Manufacturer_Part_Number 'IXBX75N170'
+PRP Mouser_Part_Number '747-IXBX75N170'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/IXYS/IXBX75N170?qs=6UKyFUzHTllWMFJjywXaHA%3D%3D'
+TOP 0 6.63 3.0295669 90 N 8 0 Q1-1
+TOP 1 6.63 2.815 90 N 17 1 Q1-2
+TOP 2 6.63 2.600433 90 N 14 18 Q1-3
+#
+# CMP 40
+CMP 7 2.4175197 2.4859843 180 N PS3 C12 ;0=2,1=0.0000
+TOP 0 2.4175197 2.4859843 180 N 18 3 PS3-1
+TOP 1 2.4175197 2.9859843 180 N 14 15 PS3-2
+TOP 2 2.5175197 2.2359843 180 N 5 2 PS3-3
+TOP 3 3.1175197 2.2359843 180 N 9 1 PS3-4
+TOP 4 2.0675197 2.5859843 180 N 14 14 PS3-5
+TOP 5 2.825 2.485 180 N 0 1 PS3-P
+#
+# CMP 41
+CMP 14 1.765 2.185 180 N D2 1N4933G ;0=2,1=0.0000
+PRP Arrow_Part_Number '1N4933G'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/1n4933g/on-semiconductor?region=nac'
+PRP Datasheet_Link 'https://www.arrow.com/en/products/1n4933g/on-semiconductor'
+PRP Manufacturer_Name 'ON Semiconductor'
+PRP Manufacturer_Part_Number '1N4933G'
+PRP Mouser_Part_Number '863-1N4933G'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi/1N4933G?qs=y2kkmE52mdNCdpmhcWNRQA%3D%3D'
+TOP 0 1.765 2.185 180 N 18 2 D2-1
+TOP 1 1.2098819 2.185 180 N 16 1 D2-2
+#
+# CMP 42
+CMP 14 3.0448819 3.565 0 N D1 1N5819-E3_54 ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.vishay.com/docs/88525/1n5817.pdf'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number '1N5819-E3/54'
+PRP Mouser_Part_Number '625-1N5819-E3'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/1N5819-E3-54?qs=7w0fSgRKp93guDuu%252B5hJ0Q%3D%3D'
+TOP 0 3.0448819 3.565 0 N 5 1 D1-1
+TOP 1 3.6 3.565 0 N 14 7 D1-2
+#
+# CMP 43
+CMP 10 2.58 3.3 0 N C13 0.1uF ;0=2,1=0.0000
+TOP 0 2.58 3.3 0 N 5 0 C13-1
+TOP 1 3.076063 3.3 0 N 14 6 C13-2
+#
+# CMP 44
+CMP 11 1.685 2.425 270 N C12 120_uF ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1134.pdf'
+PRP Height '14mm'
+PRP Manufacturer_Name 'Panasonic'
+PRP Manufacturer_Part_Number 'EEU-TP1V121'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+TOP 0 1.685 2.425 270 N 18 1 C12-1
+TOP 1 1.685 2.6218504 270 N 14 5 C12-2
+#
+# CMP 45
+CMP 21 5.1768823 1.36 180 N C10 0.68uF ;0=2,1=0.0000
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.vishay.com/docs/28162/mkp1839hq.pdf'
+PRP Height '28mm'
+PRP Manufacturer_Name 'Vishay'
+PRP Manufacturer_Part_Number 'MKP1839468134HQ'
+PRP Mouser_Part_Number '75-MKP1839468134HQ'
+PRP Mouser_Price/Stock 'https://www.mouser.com/Search/Refine.aspx?Keyword=75-MKP1839468134HQ'
+TOP 0 5.0698823 1.36 180 N 13 1 C10-1
+TOP 1 2.255 1.36 180 N 1 3 C10-2
+#
+# CMP 46
+CMP 26 5.435 3.22 0 N C9 Cap ;0=2,1=0.2362
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP PackageDescription 'Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing'
+PRP PackageReference 'RAD-0.3'
+PRP Published '8-Jun-2000'
+PRP Publisher 'Altium Limited'
+PRP Value '0.1uF'
+TOP 0 5.285 3.22 0 N 14 4 C9-1
+TOP 1 5.585 3.22 0 N 12 1 C9-2
+#
+# CMP 47
+CMP 26 5.435 3.78 0 N C7 Cap ;0=2,1=0.2362
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP PackageDescription 'Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing'
+PRP PackageReference 'RAD-0.3'
+PRP Published '8-Jun-2000'
+PRP Publisher 'Altium Limited'
+PRP Value '0.1uF'
+TOP 0 5.285 3.78 0 N 14 3 C7-1
+TOP 1 5.585 3.78 0 N 12 0 C7-2
+#
