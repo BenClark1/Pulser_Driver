@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\benja\Documents\cp\senior_year\ENGR_459_senior_project\Pulser_Driver\Pulser_Driver_PCB.PcbDoc
-Date     : 3/7/2022
-Time     : 1:32:56 PM
+Date     : 3/8/2022
+Time     : 9:07:20 PM
 
-Processing Rule : Clearance Constraint (Gap=250mil) (WithinRoom('HV_cap_clearance_exception') OR WithinRoom('HV_boost_clearance_exception')),(All)
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=105mil) (InNetClass('HV_IGBT')),(All)
@@ -12,7 +12,10 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=250mil) (InNetClass('HV_general')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=250mil) (WithinRoom('HV_cap_clearance_exception') OR WithinRoom('HV_boost_clearance_exception')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=48000mil) (HoleSize = 0),(HoleSize = 0)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -31,6 +34,9 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Co
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=10mil) (Max=250mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=24000mil) (HoleSize = 0),(HoleSize = 0)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
